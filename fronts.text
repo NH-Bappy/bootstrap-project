@@ -1,0 +1,27 @@
+font-family: "Nunito", sans-serif;
+font-family: "Open Sans", sans-serif;
+
+
+
+
+font-weight:600 ;
+    font-size: 28px;
+    font-family: "Open Sans", sans-serif;
+    color: #29313d;
+    text-transform:capitalize;
+
+
+
+display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+
+
+
+
+
+
+    font-weight: 400;
+    font-size: 19px;
+    font-family: "Nunito", sans-serif;
+    color: #29313d;
+    text-transform:capitalize;
